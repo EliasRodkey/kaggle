@@ -7,3 +7,4 @@ First repository, contains ideas for future projects and allows me to practice u
 - do machine learning course
 - make simple machine learning project
 - trading bot
+- Pocket Quant
