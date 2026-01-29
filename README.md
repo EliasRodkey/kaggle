@@ -25,4 +25,12 @@ Repository that holds kaggle machine learning training materials and documents
     - How to fill missing values or replace values using .fillna() and .replace().
 
 3. **Intermediate Machine Learning**
+    - Categorical variables: options for dealing with them are dropping, ordinal encoding, or one-hot encoding.
+    - Cross-validation: Using all the available data in chunks to train the model more efficiently with less data.
+    - Data leakage: When data  used to train the model will not be available in production. How to spot and avoid.
+    - Missing values: how to deal with missing values. Strategies include dropping columns, replacement, or imputation + extension.
+    - pipelines: once you figure out how you want to process / clean the data wrap it all in a pipeline.
+    - xgboost: basics of xgboost regression boosting aggregated learning package.
+
+4. **Data Visualization**
     - 
