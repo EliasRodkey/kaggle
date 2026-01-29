@@ -5,11 +5,24 @@ Repository that holds kaggle machine learning training materials and documents
 ## Lessons
 
 1. **Intro to Machine Learning**
-    - The basics of using sklearn and pandas to make decision tree and random forest predictive models
-    - Reading viewing and manipulating data
-    - Conventions in machine learning (X, y)
-    - Introduction to the concept of under and overfitting
-    - Introduction to training data train and validation splits
+    - The basics of using sklearn and pandas to make decision tree and random forest predictive models.
+    - Reading viewing and manipulating data.
+    - Conventions in machine learning (X, y).
+    - Introduction to the concept of under and overfitting.
+    - Introduction to training data train and validation splits.
 
 2. **Pandas**
+    - Basics of the pandas DataFrame, how it is structured, how to include an index, and how to pull from different sources.
+    - Grabbing specific data: .loc (label based selection) and .iloc (index based location) functions.
+    - Using comparators to refine search criteria.
+    - Summary methods .mean(), .median(), .unique(), .value_counts(), .idxmax().
+    - Data mapping using the .map() and .apply() methods to transform data.
+    - The .groupby() function groups together data based on a given column. Creates mutli-index dataframe.
+    - The .agg() mehtod is a groupby() method that can run a number of functions on a series at once.
+    - reset_index() can be used to flatten multi indexed dataframe again.
+    - Simple DataFrame sorting techinques using .sort_values() and .sort_index().
+    - How to read and change column dtypes.
+    - How to fill missing values or replace values using .fillna() and .replace().
+
+3. **Intermediate Machine Learning**
     - 
