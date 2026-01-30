@@ -33,4 +33,4 @@ Repository that holds kaggle machine learning training materials and documents
     - xgboost: basics of xgboost regression boosting aggregated learning package.
 
 4. **Data Visualization**
-    - 
+    - Lineplots: Use sns.lineplot to create a chart of data or a subset of data.
