@@ -34,3 +34,5 @@ Repository that holds kaggle machine learning training materials and documents
 
 4. **Data Visualization**
     - Lineplots: Use sns.lineplot to create a chart of data or a subset of data.
+    - Bar Charts and Heatmaps: Use sns.barplot and sns.heatmap to create custom plots.
+    - Scatter Plots: 
