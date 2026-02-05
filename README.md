@@ -37,3 +37,4 @@ Repository that holds kaggle machine learning training materials and documents
     - Bar Charts and Heatmaps: Use sns.barplot and sns.heatmap to create custom plots.
     - Scatter Plots: use sns.scatterplot for basic scatter plot. use sns.regplot to add regression line. Multiple regression lines can be added to track the relationship between different variables using sns.lmplot. sns.swarmplot can be used to plot categorical variables.
     - Distributions: Use sns.histplot and sns.kde to plot density distributions (can also color code using hue param). use sns.jointplot to create neat topographical 2D KDE plots.
+    - Choosing plot Types and Custom Styles: Provides decision tree on when to use different charts. Quick guide to built in style change.
