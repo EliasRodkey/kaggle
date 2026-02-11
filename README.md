@@ -38,3 +38,8 @@ Repository that holds kaggle machine learning training materials and documents
     - Scatter Plots: use sns.scatterplot for basic scatter plot. use sns.regplot to add regression line. Multiple regression lines can be added to track the relationship between different variables using sns.lmplot. sns.swarmplot can be used to plot categorical variables.
     - Distributions: Use sns.histplot and sns.kde to plot density distributions (can also color code using hue param). use sns.jointplot to create neat topographical 2D KDE plots.
     - Choosing plot Types and Custom Styles: Provides decision tree on when to use different charts. Quick guide to built in style change.
+
+5. **Feature Engineering**
+    - Introduction to feature engineering, What it is and why it is useful
+    - How to use Mutual Information (MI) to identify potentially useful features for predictions.
+    - Use data visualization to see the relationship between features and target.
