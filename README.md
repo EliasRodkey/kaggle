@@ -45,3 +45,4 @@ Repository that holds kaggle machine learning training materials and documents
     - Use data visualization to see the relationship between features and target.
     - Different ways to create features: mathematical transforms, counts, buil-up and break-down features, and group trasnforms.
     - Many tips and tricks for creating new features for different types of models.
+    - How to use k-mean clustering from scikit-learn to create new categorical clusters relating multiple other features.
