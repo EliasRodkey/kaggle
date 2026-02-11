@@ -43,3 +43,5 @@ Repository that holds kaggle machine learning training materials and documents
     - Introduction to feature engineering, What it is and why it is useful
     - How to use Mutual Information (MI) to identify potentially useful features for predictions.
     - Use data visualization to see the relationship between features and target.
+    - Different ways to create features: mathematical transforms, counts, buil-up and break-down features, and group trasnforms.
+    - Many tips and tricks for creating new features for different types of models.
