@@ -46,3 +46,5 @@ Repository that holds kaggle machine learning training materials and documents
     - Different ways to create features: mathematical transforms, counts, buil-up and break-down features, and group trasnforms.
     - Many tips and tricks for creating new features for different types of models.
     - How to use k-mean clustering from scikit-learn to create new categorical clusters relating multiple other features.
+    - Principal Component Analysis: PCA is a form of analysis that measures the variance between features and can be used to create new relationship features or identify unimportant ones.
+    - 
