@@ -48,3 +48,7 @@ Repository that holds kaggle machine learning training materials and documents
     - How to use k-mean clustering from scikit-learn to create new categorical clusters relating multiple other features.
     - Principal Component Analysis: PCA is a form of analysis that measures the variance between features and can be used to create new relationship features or identify unimportant ones.
     - Target Encoding: unlike one hot encoding and label encoding, target encoding can use averages and smoothing to turn a categorical variable into something more informative. or less informative if to much information is removed.
+
+6. **Intro to SQL**
+    - Basics of using google bigquery api interface, retrieving and examining tables.
+    - Use SELECT, FROM, & WHERE SQL keywords to select data from a table.
