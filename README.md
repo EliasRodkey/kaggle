@@ -52,3 +52,4 @@ Repository that holds kaggle machine learning training materials and documents
 6. **Intro to SQL**
     - Basics of using google bigquery api interface, retrieving and examining tables.
     - Use SELECT, FROM, & WHERE SQL keywords to select data from a table.
+    - Use COUNT (and other aggregate functions) along with GROUP BY and HAVING to draw useful information from database tables.
