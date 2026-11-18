@@ -56,3 +56,6 @@ Repository that holds kaggle machine learning training materials and documents
     - ORDER BY sorts results based on a specific column (DESC reverses the order). EXTRACT can be used to extract parts of a date.
     - AS can be used to rename columns and tables. paired with WITH creates temporary tables for more complex and organized queries.
     - JOIN using IDs across multiple tables to combine data. Types of JOINs include INNER, LEFT, RIGHT, and FULL OUTER.
+
+7. **Advanced SQL**
+    - 
