@@ -55,7 +55,7 @@ Repository that holds kaggle machine learning training materials and documents
     - Use COUNT (and other aggregate functions) along with GROUP BY and HAVING to draw useful information from database tables.
     - ORDER BY sorts results based on a specific column (DESC reverses the order). EXTRACT can be used to extract parts of a date.
     - AS can be used to rename columns and tables. paired with WITH creates temporary tables for more complex and organized queries.
-    - JOIN using IDs across multiple tables to combine data. Types of JOINs include INNER, LEFT, RIGHT, and FULL OUTER.
+    - JOIN using IDs across multiple tables to combine data.
 
 7. **Advanced SQL**
-    - 
+    - JOINs & UNIONs: join types are INNER, LEFT, RIGHT, FULL OUTER, and UNION types are ALL (allow duplicates) or DISTINCT (remove duplicates)
